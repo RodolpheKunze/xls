@@ -1,6 +1,11 @@
 # Xls
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.8.
+This object of this project is to have a basic sample for Excel export with Angular.
+This is using excelJS library and create an Excel spreadsheet with date and number formatted, implementing basic total as well
+Of course excelJS provide much more options for a nicer Excel export
+
+Feel free to add features to this sample
 
 ## Development server
 
